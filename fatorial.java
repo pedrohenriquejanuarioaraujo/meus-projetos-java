@@ -8,9 +8,7 @@ Scanner scanner = new Scanner(System.in);
   
  System.out.print("Digite um numero: ");
 
- numero = scanner.nextInt();
 
-10
 
 for (int i = numero; i>1; i--){
     fat = fat * i;
