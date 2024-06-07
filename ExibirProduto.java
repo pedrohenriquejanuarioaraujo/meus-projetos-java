@@ -95,7 +95,8 @@ public class ExibirProduto {
                 break;
 
 
-            default:
+            default:System.out.println(" A opcao digitada nao existe");
+
                 break;
         }
     }
