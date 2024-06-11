@@ -6,7 +6,7 @@ public class ExibirTabuada {
         
     Scanner scan = new Scanner(System.in);
           
-    System.out.print("Digite um valor para tabuada");
+    System.out.print("Digite um numero para calcularmos sua tabuada: ");
     numero = scan.nextInt();
 
     for ( i=1; i<=10; i++){
