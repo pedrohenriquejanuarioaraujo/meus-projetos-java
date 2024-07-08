@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class ExibirProduto {
     public static void main (String[]args) {
-        int opcao=1, opcaoproduto ;
+    int opcao=1, opcaoproduto ;
             
      Scanner scanner = new Scanner(System.in);
 

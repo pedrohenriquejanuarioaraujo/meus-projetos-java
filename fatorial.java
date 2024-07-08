@@ -8,8 +8,6 @@ Scanner scanner = new Scanner(System.in);
   
  System.out.print("Digite um numero: ");
 
-
-
 for (int i = numero; i>1; i--){
     fat = fat * i;
 }
